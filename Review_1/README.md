@@ -4,7 +4,9 @@
 
 ## Test Case
 
+```python
 w1 = wallet(500)
 w2 = wallet(700)
 w3 = w1 + w2
 print(w3.balance)
+```
