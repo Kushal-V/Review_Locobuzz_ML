@@ -1,4 +1,4 @@
-# Customer Purchase Behavior Analytics API
+# Customer Purchase Behavior Analytics API 
 
 ## Business Scenario
 The marketing team wants to identify high-value customers and understand how revenue is distributed across different customer segments and cities.
