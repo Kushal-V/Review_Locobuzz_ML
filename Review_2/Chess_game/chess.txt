@@ -1,0 +1,21 @@
+2 player game
+
+1 white 
+1 red
+
+start with board creation
+all position should be define first for all pieces
+other position will be 0
+
+start with white
+
+ask user to select piece to move
+then ask user to select position to move
+then check rules to move
+if rules are correct then move piece
+else ask user to select piece to move
+
+white can select which piece to move and where to move, then piece will check rules to move
+and if one peice already there then it will check rules to attack
+
+
